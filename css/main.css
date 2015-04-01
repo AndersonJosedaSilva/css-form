@@ -10,7 +10,8 @@ label {
 }
 
 [type=text],
-[type=password],
-[type=submit] {
-		
+[type=password] {
+	width: 99%;
+	height: 20px;
+	border: 2px solid #000;
 }
