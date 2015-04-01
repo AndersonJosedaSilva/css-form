@@ -3,3 +3,15 @@ fieldset {
 	background: url(images/wforms_bg.gif) repeat-x bottom;
 	
 }
+
+legend {
+	width: 284px;
+	height: 32px;
+	background: url(images/legend_bg.gif) no-repeat center;
+	color: #FFF;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 0 0 2px #000;
+	line-height: 30px;
+}
