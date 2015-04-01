@@ -20,3 +20,7 @@ legend {
 	border-color: #62B7FF;
 	background: url(images/field_bg.gif) repeat-x;
 }
+
+.field:hover {
+	border-color: navy;
+}
