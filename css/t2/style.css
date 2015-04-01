@@ -1,0 +1,10 @@
+fieldset,
+legend,
+.field,
+.button {
+	border-color: #781351;
+}
+
+fieldset {
+	background: url(images/bg-box-s1.gif) repeat-x bottom;
+}
