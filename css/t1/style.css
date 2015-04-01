@@ -15,3 +15,8 @@ legend {
 	text-shadow: 0 0 2px #000;
 	line-height: 30px;
 }
+
+.field {
+	border-color: #62B7FF;
+	background: url(images/field_bg.gif) repeat-x;
+}
